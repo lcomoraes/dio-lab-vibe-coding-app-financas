@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding - FinAI \- Assistente Financeiro Inteligente
+# 💸 App de Organização de Finanças Pessoais - FinAI \- Assistente Financeiro Inteligente
 <img width="1920" height="1738" alt="image" src="https://github.com/user-attachments/assets/f5cf3def-ef73-45cd-b639-12f76cf907c2" />
 
 ## 📖 Sobre o Projeto
@@ -221,7 +221,7 @@ O maior aprendizado foi entender que o processo de desenvolvimento com IA é col
 
 ## Autor
 
-Projeto desenvolvido como exercício de concepção de produto digital utilizando Inteligência Artificial para planejamento, estruturação de requisitos e prototipação rápida.
+Projeto desenvolvido por <luan.oliveira.c@gmail.com> como exercício de concepção de produto digital utilizando Inteligência Artificial para planejamento, estruturação de requisitos e prototipação rápida.
 
 
 
