@@ -1,4 +1,6 @@
 # 💸 App de Organização de Finanças Pessoais - FinAI \- Assistente Financeiro Inteligente
+
+https://finance-print-ai.lovable.app/
 <img width="1920" height="1738" alt="image" src="https://github.com/user-attachments/assets/f5cf3def-ef73-45cd-b639-12f76cf907c2" />
 
 ## 📖 Sobre o Projeto
